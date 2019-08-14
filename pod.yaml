@@ -7,5 +7,4 @@ metadata:
 spec:
   containers:
   - name: hello
-  - image: sotoiwa540/kaniko-sample
-
+  - image: sotoiwa540/hogehoge
